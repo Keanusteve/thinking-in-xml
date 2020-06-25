@@ -1,0 +1,53 @@
+<MonsterverseMovies>
+
+<installment>
+<Title>Godzilla </Title>
+<ReleaseDate>2014 </ReleaseDate>
+<Rating>PG-13 </Rating>
+<RottenTomatoes>75%</RottenTomatoes>
+<AudianceScore>66% </AudianceScore>
+<BoxOffice>$172,962,996 <BoxOffice>
+<Director>Gareth Edwards </Director>
+<RunTime>138 minutes <RunTime>
+<Studio>Legendary Pictures </Studio>
+</installment>
+
+<installment>
+<Title>Kong: Skull Island </Title>
+<ReleaseDate>Mar 10, 2017 </ReleaseDate>
+<Rating>PG-13 </Rating>
+<RottenTomatoes>75% </RottenTomatoes>
+<AudianceScore>69% </AudianceScore>
+<BoxOffice>$167,986,460 <BoxOffice>
+<Director>Jordan Vogt-Roberts </Director>
+<RunTime>118 minutes <RunTime>
+<Studio>Warner Bros. Pictures/Legendary Pictures </Studio>
+</installment>
+
+
+<installment>
+<Title>Godzilla: King of the Monsters </Title>
+<ReleaseDate>May 31, 2019 </ReleaseDate>
+<Rating>PG-13 </Rating>
+<RottenTomatoes>42% </RottenTomatoes>
+<AudianceScore>83% </AudianceScore>
+<BoxOffice> $110,500,138<BoxOffice>
+<Director>Michael Dougherty </Director>
+<RunTime>132 minutes <RunTime>
+<Studio>Warner Bros. Pictures </Studio>
+</installment>
+
+<installment>
+<Title> Godzilla vs Kong </Title>
+<ReleaseDate>Expected May 31, 2020 </ReleaseDate>
+<Rating>PG-13  </Rating>
+<RottenTomatoes>tbd </RottenTomatoes>
+<AudianceScore>tbd </AudianceScore>
+<BoxOffice>tbd<BoxOffice>
+<Director>Adam Wingard </Director>
+<RunTime>105 minutes <RunTime>
+<Studio>Warner Bros. Pictures </Studio>
+</installment>
+
+
+</MonsterverseMovies>
